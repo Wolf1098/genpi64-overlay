@@ -1,5 +1,21 @@
 # genpi64-overlay
 
+This is NeddySeagoons fork of Sakakis genpi64-overlay.
+
+Its not my intent to keep the whole project alive. I don't have the skills, either with git or code. If you look at my commits, you will probably realise that. :)
+
+My interest is keeping alive those ebuilds that either do not exist upstream because they are 64 bit Raspberry Pi specific or because they apply patches or build fixes to optimise things for the Pi4 hardware.
+
+It will take me some time to find my way around, as I do, I intend to start with the easy tasks. To me that's the trival package bumps and obsolete material removal. 
+
+I will continue to support 64 bit Gentoo on the Pi, via the Gentoo Forums.
+
+Lastly, a big thank you to Sakaki for getting this project off the ground and keeping it going so long. All the best for whatever the future brings.
+
+
+ =========================================
+
+
 Gentoo overlay (ebuild repository) for the Raspberry Pi 3 Model B and B+, and Raspberry Pi 4 Model B. Used by my bootable [`gentoo-on-rpi-64bit`](https://github.com/sakaki-/gentoo-on-rpi-64bit) image.
 
 <img src="https://raw.githubusercontent.com/sakaki-/resources/master/raspberrypi/pi4/Raspberry_Pi_3_B_and_B_plus_and_4_B.jpg" alt="RPi 3 B/B+ and 4B" width="200px" align="right"/>
