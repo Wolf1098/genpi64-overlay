@@ -1,5 +1,22 @@
 # genpi64-overlay
 
+Commentry here in reverse chronological order.
+
+Since I've been working on this it clear that the ebuilds fall into about four groups
+
+1. ebuilds that modify upstream things for optimum performance on the 64 bit Pis.
+ebuilds in this group will be maintained until they become redundant.
+
+2. ebuilds that provide Raspberry Pi specific 64 bit functionality. I'm not sure that they can ever go into ::gentoo.
+
+3. ebuilds that	support	the building for Sakakis build host.
+4. ebuilds that support distributing the content of Sakakis build host.
+
+ebuilds in groups 3 and 4 will be removed. As already stated, I cannot support Sakakis binary distro
+
+
+ =========================================
+
 This is NeddySeagoons fork of Sakakis genpi64-overlay.
 
 Its not my intent to keep the whole project alive. I don't have the skills, either with git or code. If you look at my commits, you will probably realise that. :)
