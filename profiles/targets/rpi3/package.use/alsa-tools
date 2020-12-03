@@ -1,2 +1,0 @@
-# prevent building useless GUIs on RPi3
-media-sound/alsa-tools -gtk
