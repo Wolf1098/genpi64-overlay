@@ -2,6 +2,21 @@
 
 Commentry here in reverse chronological order.
 
+ =========================================
+
+There is actually a fifth group
+
+5. ebuilds keywordeded here but not in ::gentoo
+
+Groups 3. and 4. have now been removed. That was a quick win and made it easier to work with what was left.
+
+I have started work moving group 5 into ::gentoo. That does not imply that what went into ::gentoo is identical to the work that was here.
+Sakaki needed enough to make the binary distro. Gentoo demands more. Think of Sakakis work as a subset of what has and is being upstreamed.
+
+Others have started work on group 2. The chatter takes place in #gentoo-arm on freenode.
+
+ =========================================
+
 Since I've been working on this it clear that the ebuilds fall into about four groups
 
 1. ebuilds that modify upstream things for optimum performance on the 64 bit Pis.
