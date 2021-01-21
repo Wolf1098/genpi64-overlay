@@ -6,11 +6,11 @@
         <homepage>https://github.com/sakaki-/rpi3-overlay</homepage>
         <owner>
             <name>sakaki</name>
-            <email>sakaki@deciban.com</email>
+            <email></email>
         </owner>
-        <source type="git">https://github.com/neddyseagoon/genpi64-overlay.git</source>
-        <source type="git">git://github.com/neddysegoon/genpi64-overlay.git</source>
-        <source type="git">git@github.com:neddysegoon/genpi64-overlay.git</source>
+        <source type="git">https://github.com/wolf1098/genpi64-overlay.git</source>
+        <source type="git">git://github.com/wolf1098/genpi64-overlay.git</source>
+        <source type="git">git@github.com:wolf1098/genpi64-overlay.git</source>
         <!--
 	<feed>https://github.com/sakaki-/genpi64-overlay/commits/master.atom</feed>
 	-->
